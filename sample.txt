@@ -1,0 +1,3 @@
+Hello Rust World!
+Learning by doing is the best way.
+Let’s get started.
